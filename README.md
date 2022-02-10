@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayden
-- 👀 I’m interested in weight lifting, cooking and travel
+- 👀 I’m interested in weight lifting, cooking, travel and a fluent Japanese speaker
 - 🌱 I’m currently learning iOS development with Swift
 - 💞️ I’m looking to start a new career in iOS development
 - 📫 Reach me at jpatt768@gmail.com
